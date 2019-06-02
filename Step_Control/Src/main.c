@@ -194,8 +194,8 @@ int main(void)
 	Stepper_SetAccSPS('Y',2);
 	Stepper_SetAccSPS('Z',5);
 	Stepper_SetCurrentPosition('Z',22000);
-	state =Stepper_SetAccPrescaler('X',8000);
-	state=Stepper_SetAccPrescaler('Y',8000);
+	state =Stepper_SetAccPrescaler('X',5000);
+	state=Stepper_SetAccPrescaler('Y',5000);
 	state=Stepper_SetAccPrescaler('Z',500);
 //	inverse_kinetic(20.6,0,0,0,&joint[0]);
 	HAL_TIM_PWM_Start(&htim12,TIM_CHANNEL_2);
