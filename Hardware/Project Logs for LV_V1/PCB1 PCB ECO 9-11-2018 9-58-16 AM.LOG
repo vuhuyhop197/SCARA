@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM Pin=P?-2
+Removed Pin From Net: NetName=5VDC Pin=P?-3
+Added Pin To Net: NetName=5VDC Pin=P?-2
+Added Pin To Net: NetName=PWM Pin=P?-3
+Added Room: Name=Sheet1

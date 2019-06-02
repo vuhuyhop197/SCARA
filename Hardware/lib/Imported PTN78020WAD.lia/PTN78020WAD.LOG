@@ -1,0 +1,40 @@
+PCAD Importer Log
+Project : PTN78020WAD.LibPkg
+
+Section : E:\Luan_Van\Hardware\LV_V1\lib\PTN78020WAD.lia
+    Section : PCB Library - PTN78020WAD.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 98
+            Warning - 1 : Skipping Token isVisible On Line 99
+            Warning - 1 : Skipping Token isVisible On Line 100
+            Warning - 1 : Skipping Token isVisible On Line 101
+            Warning - 1 : Skipping Token isVisible On Line 102
+            Warning - 1 : Skipping Token isVisible On Line 103
+            Warning - 1 : Skipping Token isVisible On Line 104
+            Warning - 1 : Skipping Token isVisible On Line 105
+            Warning - 1 : Skipping Token PTN78060WAH On Line 109
+            Warning - 1 : Skipping Token attachedSymbol On Line 213
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PTN78020WAD.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 93
+            Warning - 1 : Skipping Token isVisible On Line 180
+            Warning - 1 : Skipping Token isVisible On Line 181
+            Warning - 1 : Skipping Token isVisible On Line 182
+            Warning - 1 : Skipping Token isVisible On Line 183
+            Warning - 1 : Skipping Token isVisible On Line 184
+            Warning - 1 : Skipping Token isVisible On Line 185
+            Warning - 1 : Skipping Token isVisible On Line 186
+        EndSection
+
+        Section : Generating SCH Library - PTN78020WAD.SchLib
+        EndSection
+    EndSection
+EndSection

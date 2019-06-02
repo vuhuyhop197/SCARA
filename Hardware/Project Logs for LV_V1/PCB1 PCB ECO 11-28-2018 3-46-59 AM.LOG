@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5VDC Pin=JP4-2
+Removed Pin From Net: NetName=5VDC Pin=JP8-2
+Removed Pin From Net: NetName=5VDC Pin=JP12-2
+Removed Member From Class: ClassName=Sheet1 Member=JP4
+Removed Member From Class: ClassName=Sheet1 Member=JP8
+Removed Member From Class: ClassName=Sheet1 Member=JP12
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Pol
+Added Room: Name=Sheet1
