@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Removed Pin From Net: NetName=5VDC Pin=J1-P53
 Added Component: Designator=H1(LO KHOAN 3MM)
 Add component. Clean all parameters for all variants
@@ -13,3 +14,20 @@ Added Member To Class: ClassName=Sheet1 Member=Component H2 Hole
 Added Member To Class: ClassName=Sheet1 Member=Component H3 Hole
 Added Member To Class: ClassName=Sheet1 Member=Component H4 Hole
 Added Room: Name=Sheet1
+=======
+Removed Pin From Net: NetName=5VDC Pin=J1-P53
+Added Component: Designator=H1(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component *3 DRV8825
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Hole
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Hole
+Added Member To Class: ClassName=Sheet1 Member=Component H3 Hole
+Added Member To Class: ClassName=Sheet1 Member=Component H4 Hole
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

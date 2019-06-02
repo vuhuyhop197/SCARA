@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Change Component Designator: Old Designator=JP? New Designator=JP1
 Change Component Designator: Old Designator=JP? New Designator=JP2
 Change Component Designator: Old Designator=JP? New Designator=JP3
@@ -19,3 +20,26 @@ Change Component Designator: Old Designator=P? New Designator=P4
 Change Component Designator: Old Designator=R1 New Designator=R2
 Change Component Designator: Old Designator=R2 New Designator=R3
 Change Component Designator: Old Designator=R8 New Designator=R1
+=======
+Change Component Designator: Old Designator=JP? New Designator=JP1
+Change Component Designator: Old Designator=JP? New Designator=JP2
+Change Component Designator: Old Designator=JP? New Designator=JP3
+Change Component Designator: Old Designator=JP? New Designator=JP4
+Change Component Designator: Old Designator=JP? New Designator=JP5
+Change Component Designator: Old Designator=JP? New Designator=JP6
+Change Component Designator: Old Designator=JP? New Designator=JP7
+Change Component Designator: Old Designator=JP? New Designator=JP8
+Change Component Designator: Old Designator=JP? New Designator=JP9
+Change Component Designator: Old Designator=JP? New Designator=JP10
+Change Component Designator: Old Designator=JP? New Designator=JP11
+Change Component Designator: Old Designator=JP? New Designator=JP12
+Change Component Designator: Old Designator=P3 New Designator=P5
+Change Component Designator: Old Designator=P4 New Designator=P6
+Change Component Designator: Old Designator=P5 New Designator=P7
+Change Component Designator: Old Designator=P7 New Designator=P8
+Change Component Designator: Old Designator=P? New Designator=P3
+Change Component Designator: Old Designator=P? New Designator=P4
+Change Component Designator: Old Designator=R1 New Designator=R2
+Change Component Designator: Old Designator=R2 New Designator=R3
+Change Component Designator: Old Designator=R8 New Designator=R1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Removed Pin From Net: NetName=12VDC Pin=C7-1
 Removed Pin From Net: NetName=GND Pin=C7-2
 Removed Member From Class: ClassName=Sheet1 Member=C7
 Added Member To Class: ClassName=Sheet1 Member=Component D1 LED
 Added Room: Name=Sheet1
+=======
+Removed Pin From Net: NetName=12VDC Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Member From Class: ClassName=Sheet1 Member=C7
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

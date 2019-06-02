@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Added Pin To Net: NetName=GND Pin=J1-P1
 Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 3
 Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 3
 Added Member To Class: ClassName=Sheet1 Member=Component R1 Res SMD
 Added Room: Name=Sheet1
+=======
+Added Pin To Net: NetName=GND Pin=J1-P1
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res SMD
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

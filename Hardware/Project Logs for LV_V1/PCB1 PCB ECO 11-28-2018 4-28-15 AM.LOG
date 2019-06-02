@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Removed Pin From Net: NetName=Net*1_8 Pin=J1-P13
 Removed Pin From Net: NetName=Net*1_5 Pin=J1-P17
 Added Pin To Net: NetName=Tim4_ch1 Pin=*1-7
 Added Pin To Net: NetName=Net*1_5 Pin=J1-P41
 Added Pin To Net: NetName=Net*1_8 Pin=J1-P43
 Added Room: Name=Sheet1
+=======
+Removed Pin From Net: NetName=Net*1_8 Pin=J1-P13
+Removed Pin From Net: NetName=Net*1_5 Pin=J1-P17
+Added Pin To Net: NetName=Tim4_ch1 Pin=*1-7
+Added Pin To Net: NetName=Net*1_5 Pin=J1-P41
+Added Pin To Net: NetName=Net*1_8 Pin=J1-P43
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

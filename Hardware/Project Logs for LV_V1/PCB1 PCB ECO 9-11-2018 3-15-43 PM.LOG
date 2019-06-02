@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Removed Pin From Net: NetName=5VDC Pin=D1-1
 Removed Pin From Net: NetName=GND Pin=D1-2
 Change Component Designator: OldDesignator=P? NewDesignator=P6
@@ -48,3 +49,55 @@ Added Member To Class: ClassName=Sheet1 Member=Component *4 DRV8825
 Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap Pol
 Added Member To Class: ClassName=Sheet1 Member=Component P7 Domino 4
 Added Room: Name=Sheet1
+=======
+Removed Pin From Net: NetName=5VDC Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Added Component: Designator=*4(DRV8825)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(CP2/4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-3mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P7(DOMINO 4 -5mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12VDC Pin=*4-9
+Added Pin To Net: NetName=GND Pin=*4-10
+Added Pin To Net: NetName=GND Pin=*4-16
+Added Pin To Net: NetName=12VDC Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=5VDC Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=Net*4_1 Pin=*4-1
+Added Pin To Net: NetName=Net*4_1 Pin=J1-P47
+Added Net: Name=Net*4_1
+Added Pin To Net: NetName=Net*4_5 Pin=*4-5
+Added Pin To Net: NetName=Net*4_5 Pin=*4-6
+Added Net: Name=Net*4_5
+Added Pin To Net: NetName=Net*4_7 Pin=*4-7
+Added Pin To Net: NetName=Net*4_7 Pin=J1-P45
+Added Net: Name=Net*4_7
+Added Pin To Net: NetName=Net*4_8 Pin=*4-8
+Added Pin To Net: NetName=Net*4_8 Pin=J1-P43
+Added Net: Name=Net*4_8
+Added Pin To Net: NetName=Net*4_11 Pin=*4-11
+Added Pin To Net: NetName=Net*4_11 Pin=P7-1
+Added Net: Name=Net*4_11
+Added Pin To Net: NetName=Net*4_12 Pin=*4-12
+Added Pin To Net: NetName=Net*4_12 Pin=P7-2
+Added Net: Name=Net*4_12
+Added Pin To Net: NetName=Net*4_13 Pin=*4-13
+Added Pin To Net: NetName=Net*4_13 Pin=P7-3
+Added Net: Name=Net*4_13
+Added Pin To Net: NetName=Net*4_14 Pin=*4-14
+Added Pin To Net: NetName=Net*4_14 Pin=P7-4
+Added Net: Name=Net*4_14
+Added Member To Class: ClassName=Sheet1 Member=Component *4 DRV8825
+Added Member To Class: ClassName=Sheet1 Member=Component C7 Cap Pol
+Added Member To Class: ClassName=Sheet1 Member=Component P7 Domino 4
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

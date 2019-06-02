@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Change Component Footprint: Designator=C4 Old Footprint=CP3/7 New Footprint=CP2/5
 Change Component Footprint: Designator=C5 Old Footprint=CP3/7 New Footprint=CP2/5
 Change Component Footprint: Designator=C6 Old Footprint=CP3/7 New Footprint=CP2/5
 Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Non-Pol SMD
 Added Room: Name=Sheet1
+=======
+Change Component Footprint: Designator=C4 Old Footprint=CP3/7 New Footprint=CP2/5
+Change Component Footprint: Designator=C5 Old Footprint=CP3/7 New Footprint=CP2/5
+Change Component Footprint: Designator=C6 Old Footprint=CP3/7 New Footprint=CP2/5
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Non-Pol SMD
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

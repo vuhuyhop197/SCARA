@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Removed Pin From Net: NetName=GND Pin=*4-1
 Removed Pin From Net: NetName=M4_0 Pin=*4-2
 Removed Pin From Net: NetName=M4_1 Pin=*4-3
@@ -51,3 +52,58 @@ Added Member To Class: ClassName=Sheet1 Member=Component 1 PTN78020WAD
 Added Member To Class: ClassName=Sheet1 Member=Component C6 Cap Pol
 Added Member To Class: ClassName=Sheet1 Member=Component Rset1 Res SMD
 Added Room: Name=Sheet1
+=======
+Removed Pin From Net: NetName=GND Pin=*4-1
+Removed Pin From Net: NetName=M4_0 Pin=*4-2
+Removed Pin From Net: NetName=M4_1 Pin=*4-3
+Removed Pin From Net: NetName=M4_2 Pin=*4-4
+Removed Pin From Net: NetName=Tim4_ch1 Pin=*4-7
+Removed Pin From Net: NetName=12VDC Pin=*4-9
+Removed Pin From Net: NetName=GND Pin=*4-10
+Removed Pin From Net: NetName=GND Pin=*4-16
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=5VDC Pin=C3-2
+Removed Pin From Net: NetName=12VDC Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=5VDC Pin=U1-3
+Removed Member From Class: ClassName=Sheet1 Member=*4
+Removed Member From Class: ClassName=Sheet1 Member=P8
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=1(PTN78020WAD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PTN78020WAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-7 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTN78020WAD/Texas%20Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(CP2/4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CP2/4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Added Component: Designator=Rset1(RES-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1%"; Value = "21k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=12VDC Pin=1-2
+Added Pin To Net: NetName=5VDC Pin=1-5
+Added Pin To Net: NetName=5VDC Pin=1-6
+Added Pin To Net: NetName=GND Pin=1-7
+Added Pin To Net: NetName=5VDC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=12VDC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=Rset1-1
+Added Pin To Net: NetName=Net1_4 Pin=1-4
+Added Pin To Net: NetName=Net1_4 Pin=Rset1-2
+Added Net: Name=Net1_4
+Added Member To Class: ClassName=Sheet1 Member=Component 1 PTN78020WAD
+Added Member To Class: ClassName=Sheet1 Member=Component C6 Cap Pol
+Added Member To Class: ClassName=Sheet1 Member=Component Rset1 Res SMD
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b

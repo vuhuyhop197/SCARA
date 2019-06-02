@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Protel Design System Design Rule Check
 PCB File : E:\Luan_Van\Hardware\LV_V1\PCB1.PcbDoc
 Date     : 11/28/2018
@@ -48,4 +49,56 @@ Rule Violations :0
 
 Violations Detected : 1
 Waived Violations : 0
+=======
+Protel Design System Design Rule Check
+PCB File : E:\Luan_Van\Hardware\LV_V1\PCB1.PcbDoc
+Date     : 11/28/2018
+Time     : 6:47:09 AM
+
+ERROR : More than 1 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=20mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=12mil) (Max=40mil) (Preferred=20mil) (All)
+   Violation between Width Constraint: Track (2545mil,3120mil)(2550mil,3120mil) on Bottom Layer Actual Width = 0mil, Target Width = 12mil
+Rule Violations :1
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 1
+Waived Violations : 0
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b
 Time Elapsed        : 00:00:00

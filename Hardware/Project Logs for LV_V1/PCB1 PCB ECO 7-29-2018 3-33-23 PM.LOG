@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Change Component Footprint: Designator=C1 Old Footprint=CP3/7 New Footprint=CP2/4
 Added Room: Name=Sheet1
+=======
+Change Component Footprint: Designator=C1 Old Footprint=CP3/7 New Footprint=CP2/4
+Added Room: Name=Sheet1
+>>>>>>> 5224df10e7c50cbdf30d6b035b07a21c7836453b
