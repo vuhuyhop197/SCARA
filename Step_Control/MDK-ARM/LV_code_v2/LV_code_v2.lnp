@@ -1,0 +1,28 @@
+--cpu=Cortex-M4.fp
+"lv_code_v2\startup_stm32f407xx.o"
+"lv_code_v2\system_stm32f4xx_1.o"
+"lv_code_v2\stm32f4xx_hal_tim.o"
+"lv_code_v2\stm32f4xx_hal_tim_ex.o"
+"lv_code_v2\stm32f4xx_hal_uart.o"
+"lv_code_v2\stm32f4xx_hal_rcc.o"
+"lv_code_v2\stm32f4xx_hal_rcc_ex.o"
+"lv_code_v2\stm32f4xx_hal_flash.o"
+"lv_code_v2\stm32f4xx_hal_flash_ex.o"
+"lv_code_v2\stm32f4xx_hal_flash_ramfunc.o"
+"lv_code_v2\stm32f4xx_hal_gpio.o"
+"lv_code_v2\stm32f4xx_hal_dma_ex.o"
+"lv_code_v2\stm32f4xx_hal_dma.o"
+"lv_code_v2\stm32f4xx_hal_pwr.o"
+"lv_code_v2\stm32f4xx_hal_pwr_ex.o"
+"lv_code_v2\stm32f4xx_hal_cortex.o"
+"lv_code_v2\stm32f4xx_hal.o"
+"lv_code_v2\steppercontroller.o"
+"lv_code_v2\serial.o"
+"lv_code_v2\steppercommands.o"
+"lv_code_v2\main.o"
+"lv_code_v2\stm32f4xx_it.o"
+"lv_code_v2\stm32f4xx_hal_msp.o"
+--library_type=microlib --strict --scatter "LV_code_v2\LV_code_v2.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "LV_code_v2.map" -o LV_code_v2\LV_code_v2.axf
