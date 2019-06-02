@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=12VDC Pin=C1-2
+Removed Pin From Net: NetName=5VDC Pin=C2-2
+Change Component Footprint: Designator=C2 Old Footprint=CN1 New Footprint=CAP-SM-0805
+Change Component Comment : Designator=C2 Old Comment=Cap Non-Pol New Comment=Cap Non-Pol SMD
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change component parameters: Designator = "C2"; Footprint = "CAP-SM-0805"; UniqueID = "\XONSQDYO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP-SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12VDC Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5VDC Pin=C3-2
+Added Room: Name=Sheet1
