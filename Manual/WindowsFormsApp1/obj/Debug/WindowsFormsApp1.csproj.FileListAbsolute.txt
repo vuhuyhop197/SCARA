@@ -1,0 +1,132 @@
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.Web.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.Web.xml
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\VuHuyHop\Desktop\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.Web.xml
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Tai Lieu\DESKTOP\Light control\C sharp\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.Web.xml
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Tai Lieu\DESKTOP\Light control\C sharp - Copy\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.Web.xml
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Work\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.xml
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ZedGraph.Web.xml
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\de\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\es\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\fr\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\hu\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\it\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ja\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\pt\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\ru\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\sk\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\sv\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\tr\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Workspaces\Csharp\Graph\LightControl_App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
